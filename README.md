@@ -1,4 +1,4 @@
-# base
+# Chat Interface for Hat Game
 
 ## Project setup
 
