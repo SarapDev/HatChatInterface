@@ -1,5 +1,13 @@
 # Chat Interface for Hat Game
 
+This is Vue.js web interface for https://github.com/SarapDev/HatChatServer project
+
+It's realize all function of ws chat:
+- connect to the websocket
+- send nickname after websocket was connected
+- send message to the websocket
+- notify all client about new user in the chat
+
 ## Project setup
 
 ```
